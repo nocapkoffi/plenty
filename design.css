@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    box-sizing: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(pics/beautiful-blonde-woman-holding-cup-coffee_893012-42746.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(5px);
+}
+
+.IMIVE{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 300px;
+}
+div{
+    padding: 70px;
+    color: white;
+}
+.Impressive{
+    margin-bottom: 20px;
+    font-size: 100px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.Lorem{
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    height: 20px;
+    width: 100px;
+}
+.About{
+    background-color: red;
+    color: white;
+    border: none;
+    margin-right: 10px;
+}
+.Our{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
